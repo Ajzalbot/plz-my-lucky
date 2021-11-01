@@ -76,13 +76,13 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+* Original [Repo](https://t.me/MalluSearchBot)
 
 
 ## Support
-Contact Me On [Telegram](https://t.me/subinps_bot)
+Contact Me On [Telegram](https://t.me/MalluSearchBot)
 
-[Update Channel](https://t.me/subin_works)
+[Update Channel](https://t.me/ajzalk)
 
 ## License
 Code released under [The GNU General Public License](LICENSE).
